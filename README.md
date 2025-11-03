@@ -1,3 +1,13 @@
+# Linux Assignment 2
+
+# Group 8
+
+# Group members:
+
+- Sergei Firsov
+- Luigi Jose Lauron
+- Yichen Yuan
+
 # Linux Assignment 2 – Template:
 This repo is just a "template" to be used by my students for the `**Linux Lab - Assignment2**`.
 
